@@ -1,7 +1,8 @@
-# -*- coding:utf-8 -*-
+x=iter("string")
 
-class Test:
-    print("hello world")
 
+print(x)
+
+x.next()
 
 #
